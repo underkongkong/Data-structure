@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环列表实现队列", "循环列表实现队列\循环列表实现队列.vcxproj", "{91FB6AC9-9384-41C2-9761-85E7A22353DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Debug|x64.ActiveCfg = Debug|x64
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Debug|x64.Build.0 = Debug|x64
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Debug|x86.Build.0 = Debug|Win32
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Release|x64.ActiveCfg = Release|x64
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Release|x64.Build.0 = Release|x64
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Release|x86.ActiveCfg = Release|Win32
+		{91FB6AC9-9384-41C2-9761-85E7A22353DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD6FBC9-6CD5-43D4-85BB-5FE5B5545EF7}
+	EndGlobalSection
+EndGlobal

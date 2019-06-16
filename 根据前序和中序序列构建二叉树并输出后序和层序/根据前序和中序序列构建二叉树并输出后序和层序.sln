@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "根据前序和中序序列构建二叉树并输出后序和层序", "根据前序和中序序列构建二叉树并输出后序和层序\根据前序和中序序列构建二叉树并输出后序和层序.vcxproj", "{EDD65A79-50B6-454E-9F4C-272C31CBD517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Debug|x64.ActiveCfg = Debug|x64
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Debug|x64.Build.0 = Debug|x64
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Debug|x86.Build.0 = Debug|Win32
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Release|x64.ActiveCfg = Release|x64
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Release|x64.Build.0 = Release|x64
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Release|x86.ActiveCfg = Release|Win32
+		{EDD65A79-50B6-454E-9F4C-272C31CBD517}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE065F1-6E8C-4646-8938-F26EB3B27B19}
+	EndGlobalSection
+EndGlobal

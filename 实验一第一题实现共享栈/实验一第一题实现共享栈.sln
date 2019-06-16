@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验一第一题实现共享栈", "实验一第一题实现共享栈\实验一第一题实现共享栈.vcxproj", "{E086590F-1C84-4722-86FC-580DD20FB815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Debug|x64.ActiveCfg = Debug|x64
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Debug|x64.Build.0 = Debug|x64
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Debug|x86.ActiveCfg = Debug|Win32
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Debug|x86.Build.0 = Debug|Win32
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Release|x64.ActiveCfg = Release|x64
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Release|x64.Build.0 = Release|x64
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Release|x86.ActiveCfg = Release|Win32
+		{E086590F-1C84-4722-86FC-580DD20FB815}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3091AFA6-9EDE-4A80-AB87-2C6E111E4A3E}
+	EndGlobalSection
+EndGlobal

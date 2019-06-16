@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: 名为 源.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 ..\..\什么时候卖出股票\什么时候卖出股票\源.cpp, 源.cpp。
+  源.cpp
+  Project3.vcxproj -> E:\文件们\数据结构\Project3\Debug\Project3.exe

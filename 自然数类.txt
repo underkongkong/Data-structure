@@ -1,0 +1,63 @@
+#include<iostream>
+using namespace std;
+class natureNum {
+private:
+	int a;
+	int b, c, d;
+	int e;
+public:
+	natureNum(int x)
+	{
+		e = x;
+	}
+	natureNum(int x, int y)
+	{
+		a = x; b = y;
+		c = x; d = y;
+	}
+	int minmultiple();
+	int maxdivisor();
+	void showdivisor();
+};
+int natureNum::maxdivisor()
+{
+	if (a < b) { int t = a; a = b; b = t; }
+		while (b > 0) {
+			int temp = a % b;
+			a = b;
+			b = temp;
+		}
+		return a;
+}
+
+int natureNum::minmultiple()
+{
+	int gcd = maxdivisor();
+	int result = c*d/gcd;
+	return result;
+}
+
+void natureNum::showdivisor()
+	{
+		cout<<e<<"的因数有: ";
+		for(int i = 1;i<=e/2;i++)
+	{ if(e%i == 0) cout<<i<<" "; }
+	}
+
+int main()
+{
+	int p,q;
+	cin>>p>>q;
+	if (q== 0||p==0)
+		throw"你输入了错误的值";
+	natureNum abc(p,q);
+	abc.minmultiple();
+	cout << p << "和" << q << "的最大公约数是:" << abc.maxdivisor() << endl;
+	cout << p << "和" << q << "的最小公倍数是:" << abc.minmultiple() << endl;
+	int m;
+	cin >> m;
+	natureNum divisor1(m);
+	divisor1.showdivisor();
+	system("pause");
+	return 0;
+}

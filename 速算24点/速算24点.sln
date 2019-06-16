@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "速算24点", "速算24点\速算24点.vcxproj", "{304F5279-4F52-464A-A3B0-4704C85BBC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Debug|x64.ActiveCfg = Debug|x64
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Debug|x64.Build.0 = Debug|x64
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Debug|x86.Build.0 = Debug|Win32
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Release|x64.ActiveCfg = Release|x64
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Release|x64.Build.0 = Release|x64
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Release|x86.ActiveCfg = Release|Win32
+		{304F5279-4F52-464A-A3B0-4704C85BBC5C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B27B1F-BF68-453D-9F8A-6676E36E3710}
+	EndGlobalSection
+EndGlobal
